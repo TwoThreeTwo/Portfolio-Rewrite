@@ -21,22 +21,6 @@ body {
     left: 35%;
 }
 
-.aboutme-button {
-    padding: 10px;
-    border: none;
-    border-radius: 4px;
-    font: inherit;
-    color: #fff;
-    background-color: #6e5da9;
-    cursor: pointer;
-    position: relative;
-    top: 25px;
-}.aboutme-button:hover {
-    background-color: #6e5da9;
-    color: #fff;
-}
-
-
 .wrapper .sidebar {
     background: #2f2f32;
     position: fixed;
