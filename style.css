@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-align: center;
 }
-
 body {
     font-family: 'Poppins', sans-serif;
     font-size: 25px;
@@ -14,13 +12,11 @@ body {
     height: 100vh;
     color: #fff;
 }
-
 .title-content {
     position: absolute;
     top: 45%;
     left: 35%;
 }
-
 .wrapper .sidebar {
     background: #2f2f32;
     position: fixed;
@@ -38,7 +34,6 @@ body {
 	margin-bottom: 30px;
 	text-align: center;
 }
-
 .wrapper .sidebar ul li a {
     display: block;
     padding: 34.6px 30px;
@@ -48,10 +43,12 @@ body {
     position: relative;
     right: 20px;
 }
-
 .wrapper .sidebar ul li a .icon {
     color: #dee4ec;
     width: 35px;
     display: inline-block;
 }
 
+.wrapper .sidebar ul li a:hover {
+    font-size: 25px; 
+}
