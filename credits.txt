@@ -1,0 +1,3 @@
+credits:
+
+John who created https://rusherhack.org/users panel, I just got inspired but them but in no way in christ did I take their code lol.
