@@ -16,8 +16,9 @@ body {
 }
 
 .title-content {
-    display: grid;
-    place-content: center;
+    position: absolute;
+    top: 45%;
+    left: 35%;
 }
 
 .aboutme-button {
