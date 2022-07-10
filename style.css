@@ -58,3 +58,6 @@ li:hover .arrow {
 li:hover .item {
     opacity: 1.0;
 }
+a {
+    text-decoration: none;
+}
