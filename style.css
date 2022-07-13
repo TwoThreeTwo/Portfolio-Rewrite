@@ -47,9 +47,6 @@ body {
     width: 35px;
     display: inline-block;
 } 
-.wrapper .sidebar ul li a:hover {
-    font-size: 22px; 
-}
 .arrow {
   opacity: 0;
   transition: opacity 800ms;
@@ -57,12 +54,4 @@ body {
 
 li:hover .arrow {
     opacity: 1;
-  }
-li:hover .item {
-      opacity: 1.0;
-      -webkit-transition: all 500ms ease;
-      -moz-transition: all 500ms ease;
-      -ms-transition: all 500ms ease;
-      -o-transition: all 500ms ease;
-      transition: all 500ms ease;
-  }
+}
