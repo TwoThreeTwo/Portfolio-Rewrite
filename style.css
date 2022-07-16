@@ -76,3 +76,9 @@ li:hover .arrow {
     top: 150px;
     left: 150px; 
 }
+.ascii-art-text {
+    width: 50%;
+    height: auto;
+    position: relative;
+    right: 25px;
+}
