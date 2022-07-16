@@ -58,17 +58,17 @@ li:hover .arrow {
 }  
 .one, .two {
     transition: 500ms;
-    font-size: 15px;
+    font-size: 18px;
     text-align: left;
-    width: 50%;
+    width: 68%;
     height: auto;
     position: relative;
-    top: 120px;
+    top: 150px;
     left: 150px; 
 }
 .title {
     text-shadow: 0 0 5px #fff;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     color: #fff;
     margin-bottom: 30px;
