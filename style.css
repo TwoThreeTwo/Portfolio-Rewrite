@@ -56,16 +56,6 @@ body {
 li:hover .arrow {
     opacity: 1;
 }  
-.one, .two {
-    transition: 500ms;
-    font-size: 18px;
-    text-align: left;
-    width: 68%;
-    height: auto;
-    position: relative;
-    top: 150px;
-    left: 150px; 
-}
 .title {
     text-shadow: 0 0 5px #fff;
     font-size: 40px;
@@ -75,4 +65,14 @@ li:hover .arrow {
     position: absolute;
     top: 20%;
     left: 20%;
+}
+.one, .two {
+    transition: 500ms;
+    font-size: 18px;
+    text-align: left;
+    width: 60%;
+    height: auto;
+    position: relative;
+    top: 150px;
+    left: 150px; 
 }
