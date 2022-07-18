@@ -53,7 +53,7 @@ body {
   transition: opacity 800ms;
 }
 
-li:hover .arrow {
+ul li:hover .arrow {
     opacity: 1;
 }  
 .title {
@@ -76,9 +76,10 @@ li:hover .arrow {
     top: 150px;
     left: 150px; 
 }
-pre#ascii-art-text {
-    font-size: 68%;
+.photo {
     position: absolute;
-    top: 50%;
-    left: 70%;
+    left: 90%;
+    top: 25%;
+    width: 40%;
+    height: auto;
 }
