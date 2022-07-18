@@ -83,7 +83,38 @@ ul li:hover .arrow {
     width: 40%;
     height: auto;
 }
-.label-name {
-    
+.contact-introduction {
+    font-size: 40px;
+} 
+.card {
+    position: absolute;
+    top: 24%;
+    left: 42%;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    padding: 20px 40px 40px;
+    background: rgb(95, 94, 101);
+    border-bottom: 4px solid rgb(87, 7, 236);
+    border-radius: 20px;
+    transition: all 800ms;
+}.card:hover {
+    box-shadow: 0 0 8px #ff99ff;
+    border-color: #ff99ff;
 }
 
+textarea {
+    resize: none;
+}
+.submit-btn {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font: inherit;
+    color: #fff;
+    background-color: #6e5da9;
+    cursor: pointer;
+    position: relative;
+    top: 500px;
+    left: 48%;
+}
