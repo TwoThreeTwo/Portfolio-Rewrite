@@ -116,14 +116,25 @@ ul li:hover .arrow {
     width: 200px;
     height: 10%;
 }
-.input-message, .input-email  {
+.message-label {
+    position: absolute;
+    top: 60%;
+}
+.message-input {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    width: 200px;
+    height: 10%;
     border-radius: 5px;
 }
-
 textarea {
     resize: none;
 }
 .submit-btn {
+    position: absolute;
+    top: 80%;
+    left: 40%;
     padding: 10px;
     border: none;
     border-radius: 10px;
@@ -131,8 +142,7 @@ textarea {
     color: #fff;
     background-color: #6e5da9;
     cursor: pointer;
-    position: static;
-    transition: 800ms;
-}.submit-btn:hover {
-    background-color: #5c4f8e;
+}
+.input-message, .input-email  {
+    border-radius: 5px;
 }
