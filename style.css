@@ -103,6 +103,10 @@ ul li:hover .arrow {
     border-color: #ff99ff;
 }
 
+.input-message, .input-email  {
+    border-radius: 5px;
+}
+
 textarea {
     resize: none;
 }
@@ -114,7 +118,8 @@ textarea {
     color: #fff;
     background-color: #6e5da9;
     cursor: pointer;
-    position: relative;
-    top: 500px;
-    left: 48%;
+    position: static;
+    transition: 800ms;
+}.submit-btn:hover {
+    background-color: #5c4f8e;
 }
