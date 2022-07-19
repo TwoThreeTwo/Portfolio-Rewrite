@@ -84,6 +84,9 @@ ul li:hover .arrow {
     height: auto;
 }
 .contact-introduction {
+    text-shadow: 0 0 5px #fff;
+    position: relative;
+    text-align: center;
     font-size: 40px;
 } 
 .card {
@@ -102,7 +105,17 @@ ul li:hover .arrow {
     box-shadow: 0 0 8px #ff99ff;
     border-color: #ff99ff;
 }
-
+.email-label {
+    position: absolute;
+    top: 40%;
+}
+.input-email {
+    position: absolute;
+    top: 40%;
+    left: 29%;
+    width: 200px;
+    height: 10%;
+}
 .input-message, .input-email  {
     border-radius: 5px;
 }
