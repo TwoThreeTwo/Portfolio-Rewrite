@@ -108,6 +108,7 @@ ul li:hover .arrow {
 .email-label {
     position: absolute;
     top: 40%;
+    right: 71%;
 }
 .input-email {
     position: absolute;
@@ -119,6 +120,7 @@ ul li:hover .arrow {
 .message-label {
     position: absolute;
     top: 60%;
+    right: 71%;
 }
 .message-input {
     position: absolute;
