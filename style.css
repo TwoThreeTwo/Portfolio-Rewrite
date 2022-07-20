@@ -148,3 +148,7 @@ textarea {
 .input-message, .input-email  {
     border-radius: 5px;
 }
+
+.fa {
+    font-size: 28px;
+}
