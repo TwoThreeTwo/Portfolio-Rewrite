@@ -154,3 +154,21 @@ textarea {
 .fa {
     font-size: 28px;
 }
+
+.card {
+    position: absolute;
+    top: 40%;
+    left: 42%;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    padding: 20px 40px 40px;
+    background: rgb(95, 94, 101);
+    border-bottom: 4px solid rgb(87, 7, 236);
+    border-radius: 20px;
+    transition: all 800ms;
+}
+
+ul {
+    list-style: none;
+}
