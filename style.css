@@ -88,7 +88,7 @@ ul li:hover .arrow {
 .contact-introduction {
     text-shadow: 0 0 5px #fff;
     position: relative;
-    text-align: center;
+    left: 7%;
     font-size: 40px;
 } 
 .card {
