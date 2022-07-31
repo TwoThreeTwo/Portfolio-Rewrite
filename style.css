@@ -172,3 +172,15 @@ textarea {
 ul {
     list-style: none;
 }
+
+.projcets-text {
+    text-shadow: 0 0 10px #6e5da9;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    width: 40%;
+    height: auto;
+    position: relative;
+    top: 220px;
+    left: 350px
+}
